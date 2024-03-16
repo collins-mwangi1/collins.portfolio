@@ -196,6 +196,6 @@ section{
 }
 
 .social-plartforms i:hover{
-    transform: translateY(-10);   
+    transform: translateY(-10px);   
 }
 
